@@ -20,9 +20,9 @@ The permitted targets are NexeraDigital/GIGTestFY27 and NexeraDigital organizati
 
 Use the pilot to ask questions about approved test data, verify answers against GitHub, and evaluate explicitly requested test changes. Only use information you are authorized to access and process through Microsoft 365 and GitHub.
 
-During this pilot, changes are limited to dedicated issues whose titles begin with `[Copilot PoC]`. Supported test changes are issue title or description edits and project field updates on those issues. Preserve the identifying prefix when editing a title. Existing business work must not be modified through the agent.
+During this pilot, you may request progress-update comments on verified issues in the approved repository and Project 18. Review the exact comment and target before approving submission. Comments do not change the issue description or project fields. Other edits remain limited to dedicated issues whose titles begin with `[Copilot PoC]`: issue title or description edits and project field updates. Preserve the identifying prefix when editing a title.
 
-Do not use the pilot to create issues or comments, delete or archive work, change permissions, perform bulk updates, or operate on production repositories or boards. Do not submit credentials, regulated information or other sensitive data that has not been approved for this pilot. Do not try to bypass permissions or the pilot's restrictions.
+Do not use the pilot to create issues, delete or archive work, change permissions, perform bulk updates, or operate on production repositories or boards. Do not submit credentials, regulated information or other sensitive data that has not been approved for this pilot. Do not try to bypass permissions or the pilot's restrictions.
 
 ## Review before acting
 
