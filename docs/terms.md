@@ -20,7 +20,7 @@ The permitted targets are NexeraDigital/GIGTestFY27 and NexeraDigital organizati
 
 Use the pilot to ask questions about approved test data, verify answers against GitHub, and evaluate explicitly requested test changes. Only use information you are authorized to access and process through Microsoft 365 and GitHub.
 
-During this pilot, you may request progress-update comments on verified issues in the approved repository and Project 18. Review the exact comment and target before approving submission. Comments do not change the issue description or project fields. Other edits remain limited to dedicated issues whose titles begin with `[Copilot PoC]`: issue title or description edits and project field updates. Preserve the identifying prefix when editing a title.
+During this pilot, you may request progress-update comments on verified issues in the approved repository and Project 18. A complete request to post an update is acted on without a separate approval prompt. Check the issue and wording before sending your request. Comments do not change the issue description or project fields. Other edits remain limited to dedicated issues whose titles begin with `[Copilot PoC]`: issue title or description edits and project field updates. Preserve the identifying prefix when editing a title.
 
 Do not use the pilot to create issues, delete or archive work, change permissions, perform bulk updates, or operate on production repositories or boards. Do not submit credentials, regulated information or other sensitive data that has not been approved for this pilot. Do not try to bypass permissions or the pilot's restrictions.
 
@@ -28,7 +28,7 @@ Do not use the pilot to create issues, delete or archive work, change permission
 
 The agent can generate inaccurate queries, incomplete counts, incorrect summaries or unintended changes. Review source links and important values in GitHub. Do not rely on pilot answers as the sole basis for business commitments, personnel decisions or changes to production work.
 
-Before approving a change, review the target and requested values. After execution, verify the actual GitHub result. Report unexpected or partial changes to the pilot administrator. Confirmation prompts and agent instructions reduce risk but do not guarantee that every error will be prevented.
+Before requesting a change, review the target and requested values. After execution, verify the actual GitHub result. Report unexpected or partial changes to the pilot administrator. Repeated operation approval prompts are disabled for this pilot, including writes. Agent instructions and result checks do not guarantee that every error will be prevented.
 
 GitHub OAuth permissions extend beyond the intended pilot scope. Use the connection only for authorized pilot tasks, even if the underlying account has access to additional resources.
 
